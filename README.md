@@ -1,2 +1,2 @@
 # rollupoly
-Online desktop browser-based board game about PE rollups
+Online browser-based board game about PE rollups
